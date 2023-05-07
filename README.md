@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+## Token Design - MajewskiToken
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+### 1) Initial supply - 70,000,000
+### 2) Max supply - 100,000,000
+### 3) Tokens are burnable
+### 4) Created block reward to distribute new supply to miners
